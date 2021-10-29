@@ -16,6 +16,24 @@
       "message": "what branch is this from? I didn\u0027t see it squashed from Qualcomm",
       "revId": "bef6cc1688473498b5dce28d1dc5bbdc20a4c265",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1a421be3_d1dcfa4f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000092
+      },
+      "writtenOn": "2021-10-29T02:59:21Z",
+      "side": 1,
+      "message": "sm8350 maybe\nhttps://github.com/AOSPA/android_kernel_oneplus_sm8350/commit/6ef7ceaf5cec588645e814424a8924a05d14835a",
+      "parentUuid": "6979d80b_bc9ef8a9",
+      "revId": "bef6cc1688473498b5dce28d1dc5bbdc20a4c265",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
