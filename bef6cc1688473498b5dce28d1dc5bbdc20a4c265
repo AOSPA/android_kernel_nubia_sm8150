@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6979d80b_bc9ef8a9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2021-10-29T02:49:04Z",
+      "side": 1,
+      "message": "what branch is this from? I didn\u0027t see it squashed from Qualcomm",
+      "revId": "bef6cc1688473498b5dce28d1dc5bbdc20a4c265",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
